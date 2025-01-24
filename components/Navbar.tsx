@@ -15,7 +15,7 @@ const Navbar = () => {
       height={32}
       className='max-sm:size-10'
       />
-      <p className='text-[26px] font-extrabold text-white max-sm:hidden'>MEOW</p>
+      <p className='text-[26px] font-extrabold text-white max-sm:hidden'>NOT ZOOM</p>
       </Link>
       <div className='flex-between gap-5'>
         {/* clerk user management */}

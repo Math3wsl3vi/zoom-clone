@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MOEW",
+  title: "NOT ZOOM",
   description: "Video calling app",
   icons:{
     icon:'/icons/logo.svg'
